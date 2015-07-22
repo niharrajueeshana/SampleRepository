@@ -12,6 +12,7 @@
     //Added comment in AppDelegate header
     
     //Push instead Commit
+    //Push instead Commit again
 }
 
 @property (strong, nonatomic) UIWindow *window;
