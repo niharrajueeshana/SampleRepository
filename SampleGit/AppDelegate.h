@@ -10,6 +10,8 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate> {
     //Added comment in AppDelegate header
+    
+    //Push instead Commit
 }
 
 @property (strong, nonatomic) UIWindow *window;
